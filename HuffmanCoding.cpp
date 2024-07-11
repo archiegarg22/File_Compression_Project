@@ -138,7 +138,7 @@ void makingHuffMannCode(string input){
 
 int main(){
     string s;
-    cout << "Please enter the input string" << endl;
+    cout << "Please enter the input string:" << endl;
     getline(cin,s);
     makingHuffMannCode(s);
 }
