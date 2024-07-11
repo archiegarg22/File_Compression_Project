@@ -8,10 +8,15 @@ The program has been implemented in C++ language with the goal of optimizing sto
 
 # Compression:
 -> Input the data for compression.
+
 -> Record the frequency distribution of all characters within the input.
+
 -> Constuct a min priority queue with respect to the character frequencies.
+
 -> Construct the Huffman Tree using the priority queue.
+
 -> Generate an encoding table that maps each character to its respective Huffman code.
+
 -> Compress the input data utilizing the generated encoding table.
 
  *The codes are stored as bits and each character is provided a prefix code which is a string of bits.*
