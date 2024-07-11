@@ -39,10 +39,13 @@ The program has been implemented in C++ language with the goal of optimizing sto
 
 
 # Finding Compression Efficiency:
-A compression yielding between _% to _% reduction in size compared to the original input file has been achieved.
+A compression yielding between 6% to 7% reduction in size compared to the original input file has been achieved.
 
 ![efficiency](https://github.com/archiegarg22/File_Compression_Project/assets/155153189/29be111a-7b71-402e-b080-98343eb61902)
 
 
 # Output:
+
+![Output](https://github.com/archiegarg22/File_Compression_Project/assets/155153189/f2fdb5a2-44cf-4dd9-b75e-1d412fde181f)
+
 
