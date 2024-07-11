@@ -23,9 +23,13 @@ The program has been implemented in C++ language with the goal of optimizing sto
 
 # Decompression:
 -> Open the encoded file that contains the compressed data.
+
 -> Utilize the encoded table, which maps characters to their respective Huffman codes.
+
 -> Reconstruct the Huffman Tree from the encoded table.
+
 -> Decode the compressed data.
+
 -> Save the decoded data to the desired file location.
 
 # Finding Compression Efficiency:
