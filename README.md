@@ -21,6 +21,9 @@ The program has been implemented in C++ language with the goal of optimizing sto
 
  *The codes are stored as bits and each character is provided a prefix code which is a string of bits.*
 
+![compression](https://github.com/archiegarg22/File_Compression_Project/assets/155153189/5b21673d-e073-41fd-9843-25b2d3b51c8d)
+
+
 # Decompression:
 -> Open the encoded file that contains the compressed data.
 
@@ -32,8 +35,14 @@ The program has been implemented in C++ language with the goal of optimizing sto
 
 -> Save the decoded data to the desired file location.
 
+![depression](https://github.com/archiegarg22/File_Compression_Project/assets/155153189/42c7665b-4946-4a80-b270-7bcba24a76c7)
+
+
 # Finding Compression Efficiency:
 A compression yielding between _% to _% reduction in size compared to the original input file has been achieved.
+
+![efficiency](https://github.com/archiegarg22/File_Compression_Project/assets/155153189/29be111a-7b71-402e-b080-98343eb61902)
+
 
 # Output:
 
